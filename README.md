@@ -1,0 +1,1 @@
+Create google.com clone. DO NOT make it function like google.
